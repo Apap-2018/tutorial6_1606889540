@@ -1,0 +1,30 @@
+{
+  "run": {
+    "default": "",
+    "items": [
+      {
+        "name": "tutorial6",
+        "projectName": "tutorial6",
+        "workingDirectory": "/home/mahdifr/DeveloperZone/Eclipse-Workspace/Apap_Tutorial-6_Rabu",
+        "args": [],
+        "vmargs": [],
+        "env": {},
+        "preLaunchTask": ""
+      }
+    ]
+  },
+  "debug": {
+    "default": "",
+    "items": [
+      {
+        "name": "tutorial6",
+        "projectName": "tutorial6",
+        "workingDirectory": "/home/mahdifr/DeveloperZone/Eclipse-Workspace/Apap_Tutorial-6_Rabu",
+        "args": [],
+        "vmargs": [],
+        "env": {},
+        "preLaunchTask": ""
+      }
+    ]
+  }
+}
